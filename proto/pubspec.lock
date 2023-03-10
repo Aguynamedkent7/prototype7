@@ -103,6 +103,14 @@ packages:
       url: "https://github.com/fleaflet/flutter_map.git"
     source: git
     version: "3.2.0"
+  flutter_polyline_points:
+    dependency: "direct main"
+    description:
+      name: flutter_polyline_points
+      sha256: "02699e69142f51a248d784b6e3eec524194467fca5f7c4da19699ce2368b6980"
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.0.0"
   flutter_test:
     dependency: "direct dev"
     description: flutter
@@ -281,6 +289,22 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.2.0"
+  syncfusion_flutter_core:
+    dependency: transitive
+    description:
+      name: syncfusion_flutter_core
+      sha256: ab3eac31638e80663eae19c71e362012e1e2f67dfd527dc5c07d9397cd4238f2
+      url: "https://pub.dev"
+    source: hosted
+    version: "20.4.53"
+  syncfusion_flutter_maps:
+    dependency: "direct main"
+    description:
+      name: syncfusion_flutter_maps
+      sha256: "558041c1f06d36f98ea514792c84683dbc4b06b14ca7daebef6b4b4373332378"
+      url: "https://pub.dev"
+    source: hosted
+    version: "20.4.53"
   term_glyph:
     dependency: transitive
     description:
